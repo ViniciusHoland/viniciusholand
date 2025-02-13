@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje faço faculdade de ciências da computação
+- 🔭 Atualmente faço faculdade de ciências da computação
 - 🌱 Estudando JavaScript com NodeJs
 - 📫 contate-me: viniholanda49@gmail.com
 
